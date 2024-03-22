@@ -1,0 +1,21 @@
+{
+  "name": "velrecusandae",
+  "version": "1.0.0",
+  "description": "Plain javascript DNS protocol client (minimal)",
+  "main": "lib/dns.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KendraPfeffer/velrecusandae.git"
+  },
+  "keywords": [
+    "est",
+    "dns.js",
+    "id",
+    "voluptates"
+  ],
+  "author": "JerelCruickshank",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
+}
